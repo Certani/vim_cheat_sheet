@@ -3,7 +3,7 @@ WIP!!!
 
 ### Alternatives to hjkl:
 How to reach the x-th character in a x-th line:\
-&lt; normal mode &gt;\
+&lt; normal mode &gt;
 
 __xgg__ __(xw)__ __f&lt;character&gt;__
 ___
