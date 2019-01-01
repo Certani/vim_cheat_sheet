@@ -7,8 +7,8 @@ xgg (xw) f&lt;character&gt;
 
 
 ___
-### from [8 Vim Tips And Tricks That Will Make You A Pro User](https://itsfoss.com/pro-vim-tips/)
 ### Using variables to insert text:
+##### from [8 Vim Tips And Tricks That Will Make You A Pro User](https://itsfoss.com/pro-vim-tips/)
 &lt; normal mode &gt;
 
 :ab anyname awful long term\
