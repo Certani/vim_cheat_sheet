@@ -20,3 +20,17 @@ i\
 This is an anyname example\
 &lt; space &gt;\
 This is an awful long term example
+
+## write and quit
+#### from [Best Vim Tips](http://vim.wikia.com/wiki/Best_Vim_Tips)
+
+:wq = :x
+
+## Open two files in two splitted windows
+#### from [8 Interesting ‘Vi/Vim’ Editor Tips and Tricks for Every Linux Administrator – Part 2](https://www.tecmint.com/how-to-use-vi-and-vim-editor-in-linux/)
+
+horizontal split (lower case o):\
+vim -o file1 file2
+
+vertical split (upper case O):\
+vim -O file1 file2
