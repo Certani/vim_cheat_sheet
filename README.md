@@ -3,6 +3,8 @@ WIP!!!
 
 ### Alternatives to hjkl:
 How to reach the x-th character in a x-th line:\
+&lt; normal mode &gt;\
+
 __xgg__ __(xw)__ __f&lt;character&gt;__
 ___
 ### Using variables to insert text:
@@ -16,12 +18,12 @@ __:ab__ __anyname__ __awful__ __long__ __term__\
 &lt; insert mode &gt;
 
 This is an anyname example\
-**&lt; space &gt;\**
+**&lt;** **space** **&gt;**\
 This is an awful long term example
 ___
 ### write and quit
 #### from [Best Vim Tips](http://vim.wikia.com/wiki/Best_Vim_Tips)
-
+&lt; normal mode &gt;\
 **:wq** = **:x**
 ___
 ### Open two files in two splitted windows
