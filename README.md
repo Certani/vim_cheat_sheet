@@ -12,7 +12,7 @@ ___
 &lt; normal mode &gt;
 
 :ab anyname awful long term\
-&nbsp;  ----var----&nbsp; ----extend to this----
+&nbsp;&nbsp;&nbsp;  ----var----&nbsp; --extend to this--
     
 i\
 &lt; insert mode &gt;
